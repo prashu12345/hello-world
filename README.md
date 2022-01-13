@@ -1,2 +1,3 @@
 # hello-world
-My first project
+# My first project
+print("hello world");
